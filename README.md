@@ -99,9 +99,7 @@ If you have feedback regarding bugs or improvements, open an issue, @ me on Twit
 
 I'd love to see the sites you create using this little tool.
 
-## Credits
-- [Jekyll](https://github.com/jekyll/jekyll)
-- [FontAwesome](https://fontawesome.github.io/Font-Awesome/)
-
 ## License
 [MIT License](LICENSE)
+
+## Creator and developer [Akif Garpe](https://github.com/akifgrape) 🔥
