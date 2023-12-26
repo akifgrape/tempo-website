@@ -102,4 +102,4 @@ I'd love to see the sites you create using this little tool.
 ## License
 [MIT License](LICENSE)
 
-## Creator and developer [Akif Garpe](https://github.com/akifgrape) 🔥
+## Creator and developer [Akif Grape](https://github.com/akifgrape) 🔥
